@@ -1,7 +1,5 @@
 # my config CRKBD
 
-A split keyboard with 3x6 vertically staggered keys and 3 thumb keys.
-
 Keyboard Maintainer: [foostan](https://github.com/foostan/) [@foostan](https://twitter.com/foostan)  
 Hardware Supported: Corne PCB
 Hardware Availability: [PCB & Case Data](https://github.com/foostan/crkbd)
