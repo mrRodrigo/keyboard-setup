@@ -16,7 +16,7 @@ keymaps/my_config
 compile to promicro:
 
 `
-qmk compile CONVERT_TO=promicro_rp2040 -kb crkbd/rev1 -km KEYMAP_NAME
+qmk compile -e CONVERT_TO=promicro_rp2040 -kb crkbd/rev1 -km KEYMAP_NAME
 `
 
 Just move the uf2 to root folder of promicro
